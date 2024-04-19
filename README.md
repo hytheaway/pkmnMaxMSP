@@ -1,7 +1,7 @@
 # pkmnMaxMSP
 
 a maxmsp patch that breaks a gameboy screen up into four chunks, then spits out an auditory expression of the matrix data of each of those four chunks.
-shockingly straightforward.
+shockingly straightforward. check out a demo here: https://youtu.be/AFi1Px7UF9E
 
 want to try it yourself?
 1. open up the game of your choice in an emulator.
